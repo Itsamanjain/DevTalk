@@ -8,6 +8,11 @@ DevTalk is a React Native app built with Expo that provides a platform for devel
 - **User Profiles:** Create and customize your developer profile.
 - **Community:** Join various developer communities and discussions.
 
+ #screenshot
+
+ ![App Screenshot](https://github.com/Itsamanjain/DevTalk/raw/master/assets/1702648265080.jpg)
+
+
 ## Getting Started
 
 To get started with DevTalk, follow these steps:
