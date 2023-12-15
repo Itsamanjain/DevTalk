@@ -10,7 +10,7 @@ DevTalk is a React Native app built with Expo that provides a platform for devel
 
  #screenshot
 
- ![App Screenshot](https://github.com/Itsamanjain/DevTalk/raw/master/assets/1702648265080.jpg)
+ ![App Screenshot](https://github.com/Itsamanjain/DevTalk/raw/master/assets/1702648265080.jpg =300x)
 
 
 ## Getting Started
