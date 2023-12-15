@@ -16,27 +16,26 @@ To get started with DevTalk, follow these steps:
    ```bash
    git clone https://github.com/your-username/DevTalk.git
    cd DevTalk
+   npm install
+   npx expo start
 
 
-**Install Dependencies:**
-    npm install
 
-**Run the App:**
-    npx expo start
 
-Technologies Used
-React Native
-Expo
+# Technologies Used
+-React Native
+-Expo
 
 # Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
-**License**
+# License
 
 This project is licensed under the MIT License.
 
-**Acknowledgments**
+
+# Acknowledgments
 
 Special thanks to the Expo and React Native communities.
 Inspired by the need for a developer-centric communication platform.
